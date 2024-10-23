@@ -1,0 +1,40 @@
+E:\Visual Studio source-repos\C#ProjeDeneme1\C#ProjeDeneme1\bin\Debug\net8.0-windows\C#ProjeDeneme1.exe
+E:\Visual Studio source-repos\C#ProjeDeneme1\C#ProjeDeneme1\bin\Debug\net8.0-windows\C#ProjeDeneme1.deps.json
+E:\Visual Studio source-repos\C#ProjeDeneme1\C#ProjeDeneme1\bin\Debug\net8.0-windows\C#ProjeDeneme1.runtimeconfig.json
+E:\Visual Studio source-repos\C#ProjeDeneme1\C#ProjeDeneme1\bin\Debug\net8.0-windows\C#ProjeDeneme1.dll
+E:\Visual Studio source-repos\C#ProjeDeneme1\C#ProjeDeneme1\bin\Debug\net8.0-windows\C#ProjeDeneme1.pdb
+E:\Visual Studio source-repos\C#ProjeDeneme1\C#ProjeDeneme1\obj\Debug\net8.0-windows\C_ProjeDeneme1.Form1.resources
+E:\Visual Studio source-repos\C#ProjeDeneme1\C#ProjeDeneme1\obj\Debug\net8.0-windows\C#ProjeDeneme1.csproj.GenerateResource.cache
+E:\Visual Studio source-repos\C#ProjeDeneme1\C#ProjeDeneme1\obj\Debug\net8.0-windows\C#ProjeDeneme1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio source-repos\C#ProjeDeneme1\C#ProjeDeneme1\obj\Debug\net8.0-windows\C#ProjeDeneme1.AssemblyInfoInputs.cache
+E:\Visual Studio source-repos\C#ProjeDeneme1\C#ProjeDeneme1\obj\Debug\net8.0-windows\C#ProjeDeneme1.AssemblyInfo.cs
+E:\Visual Studio source-repos\C#ProjeDeneme1\C#ProjeDeneme1\obj\Debug\net8.0-windows\C#ProjeDeneme1.csproj.CoreCompileInputs.cache
+E:\Visual Studio source-repos\C#ProjeDeneme1\C#ProjeDeneme1\obj\Debug\net8.0-windows\C#ProjeDeneme1.dll
+E:\Visual Studio source-repos\C#ProjeDeneme1\C#ProjeDeneme1\obj\Debug\net8.0-windows\refint\C#ProjeDeneme1.dll
+E:\Visual Studio source-repos\C#ProjeDeneme1\C#ProjeDeneme1\obj\Debug\net8.0-windows\C#ProjeDeneme1.pdb
+E:\Visual Studio source-repos\C#ProjeDeneme1\C#ProjeDeneme1\obj\Debug\net8.0-windows\C#ProjeDeneme1.genruntimeconfig.cache
+E:\Visual Studio source-repos\C#ProjeDeneme1\C#ProjeDeneme1\obj\Debug\net8.0-windows\ref\C#ProjeDeneme1.dll
+E:\Visual Studio source-repos\C#ProjeDeneme1\C#ProjeDeneme1\obj\Debug\net8.0-windows\C_ProjeDeneme1.Properties.Resources.resources
+E:\Visual Studio source-repos\C#ProjeDeneme1\C#ProjeDeneme1\obj\Debug\net8.0-windows\C_ProjeDeneme1.FormCalisanlar.resources
+E:\Visual Studio source-repos\C#ProjeDeneme1\C#ProjeDeneme1\obj\Debug\net8.0-windows\C_ProjeDeneme1.FormAdminGiris.resources
+E:\Visual Studio source-repos\C#ProjeDeneme1\C#ProjeDeneme1\obj\Debug\net8.0-windows\C_ProjeDeneme1.FormRandevuYonet.resources
+C:\Users\Özgür Demir\Desktop\Ndp 2. Dönem Proje\bin\Debug\net8.0-windows\C#ProjeDeneme1.exe
+C:\Users\Özgür Demir\Desktop\Ndp 2. Dönem Proje\bin\Debug\net8.0-windows\C#ProjeDeneme1.deps.json
+C:\Users\Özgür Demir\Desktop\Ndp 2. Dönem Proje\bin\Debug\net8.0-windows\C#ProjeDeneme1.runtimeconfig.json
+C:\Users\Özgür Demir\Desktop\Ndp 2. Dönem Proje\bin\Debug\net8.0-windows\C#ProjeDeneme1.dll
+C:\Users\Özgür Demir\Desktop\Ndp 2. Dönem Proje\bin\Debug\net8.0-windows\C#ProjeDeneme1.pdb
+C:\Users\Özgür Demir\Desktop\Ndp 2. Dönem Proje\obj\Debug\net8.0-windows\C_ProjeDeneme1.Form1.resources
+C:\Users\Özgür Demir\Desktop\Ndp 2. Dönem Proje\obj\Debug\net8.0-windows\C_ProjeDeneme1.FormAdminGiris.resources
+C:\Users\Özgür Demir\Desktop\Ndp 2. Dönem Proje\obj\Debug\net8.0-windows\C_ProjeDeneme1.FormCalisanlar.resources
+C:\Users\Özgür Demir\Desktop\Ndp 2. Dönem Proje\obj\Debug\net8.0-windows\C_ProjeDeneme1.FormRandevuYonet.resources
+C:\Users\Özgür Demir\Desktop\Ndp 2. Dönem Proje\obj\Debug\net8.0-windows\C_ProjeDeneme1.Properties.Resources.resources
+C:\Users\Özgür Demir\Desktop\Ndp 2. Dönem Proje\obj\Debug\net8.0-windows\C#ProjeDeneme1.csproj.GenerateResource.cache
+C:\Users\Özgür Demir\Desktop\Ndp 2. Dönem Proje\obj\Debug\net8.0-windows\C#ProjeDeneme1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Özgür Demir\Desktop\Ndp 2. Dönem Proje\obj\Debug\net8.0-windows\C#ProjeDeneme1.AssemblyInfoInputs.cache
+C:\Users\Özgür Demir\Desktop\Ndp 2. Dönem Proje\obj\Debug\net8.0-windows\C#ProjeDeneme1.AssemblyInfo.cs
+C:\Users\Özgür Demir\Desktop\Ndp 2. Dönem Proje\obj\Debug\net8.0-windows\C#ProjeDeneme1.csproj.CoreCompileInputs.cache
+C:\Users\Özgür Demir\Desktop\Ndp 2. Dönem Proje\obj\Debug\net8.0-windows\C#ProjeDeneme1.dll
+C:\Users\Özgür Demir\Desktop\Ndp 2. Dönem Proje\obj\Debug\net8.0-windows\refint\C#ProjeDeneme1.dll
+C:\Users\Özgür Demir\Desktop\Ndp 2. Dönem Proje\obj\Debug\net8.0-windows\C#ProjeDeneme1.pdb
+C:\Users\Özgür Demir\Desktop\Ndp 2. Dönem Proje\obj\Debug\net8.0-windows\C#ProjeDeneme1.genruntimeconfig.cache
+C:\Users\Özgür Demir\Desktop\Ndp 2. Dönem Proje\obj\Debug\net8.0-windows\ref\C#ProjeDeneme1.dll

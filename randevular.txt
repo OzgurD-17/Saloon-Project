@@ -1,0 +1,4 @@
+Asiye Keskin;16.05.2024 00:00:00;17:00;as;asd;(231) 233-1231;asd@asdas;Saç Kesim;200
+Asiye Keskin;16.05.2024 00:00:00;17:30;asd;asd;(232) 132-1321;asd@asdasdasd;Saç Yıkama,Saç Boyama,Kaş Düzeltme,Manikür;1250
+Aynur Tekin;16.05.2024 00:00:00;18:00;asd;asdasda;(213) 213-1231;asd@asdasd;Saç Kesim,Saç Yıkama,Saç Boyama;1200
+Kadriye Güneş;16.05.2024 00:00:00;18:00;asd;asd;(313) 123-1231;asd@asd;Saç Kesim,Kaş Düzeltme,Manikür;450
